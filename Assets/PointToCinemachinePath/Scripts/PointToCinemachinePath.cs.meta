@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6bbd31e686a14535b0eda431dd11d94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cinemachinePath: {instanceID: 0}
+  - protPtPrefab: {fileID: 1067459856056834241, guid: caf390a1ae8084a0ebaa16e47e5f23b0,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
